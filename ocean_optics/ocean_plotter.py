@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # import imageio
 
 # set data directory
-dataDir = "/Users/mcook/OneDrive - University of Tennessee/CeGa_Air/CeGa_4/"
+dataDir = "/Users/mcook/University of Tennessee/Hall Research Group - Plasma Project/Thesis Data/1 Low Position/04 Powder Trin/20170807/"
 
 # PNG directory
 # pngDir = "png2gif/"
